@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="item_margin">16dp</dimen>
+
+    <!-- ItemRow -->
+    <dimen name="row_height">44dp</dimen>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="padding_vertical">8dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="name_text_size">16sp</dimen>
+    <dimen name="id_text_size">16sp</dimen>
+    <dimen name="name_spacing">8dp</dimen>
+
+    <!-- Line heights -->
+    <dimen name="name_line_height">28sp</dimen>
+    <dimen name="id_line_height">28sp</dimen>
+
+    <!-- Divider thickness -->
+    <dimen name="divider_thickness">0.5dp</dimen>
+</resources>

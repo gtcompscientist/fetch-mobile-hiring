@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Mobile Hiring</string>
+    <string name="search_items_hint">Search for Item</string>
+    <string name="clear_search">Clear\n</string>
+    <string name="item_name_none">No name</string>
+    <string name="name_placeholder">Item Name</string>
+</resources>
