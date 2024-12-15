@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorAccent">#03DAC6</color>
+
+    <!-- Primary brand colors for light theme -->
+    <color name="primary">#6200EE</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#BB86FC</color>
+    <color name="on_primary_container">#000000</color>
+
+    <!-- Secondary brand colors for light theme -->
+    <color name="secondary">#03DAC6</color>
+    <color name="on_secondary">#000000</color>
+    <color name="secondary_container">#018786</color>
+    <color name="on_secondary_container">#FFFFFF</color>
+
+    <!-- Background and Surface for light theme -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1D1C1D</color>
+
+    <!-- Error colors for light theme -->
+    <color name="error">#B00020</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="error_container">#CF6679</color>
+    <color name="on_error_container">#000000</color>
+
+    <!-- ItemRow -->
+    <color name="name_text_color">#1D1C1D</color>
+    <color name="id_text_color">#616061</color>
+    <color name="divider_color">#DDDDDD</color>
 </resources>
