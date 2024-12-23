@@ -9,15 +9,16 @@
     <dimen name="padding_vertical">8dp</dimen>
 
     <!-- Text sizes -->
-    <dimen name="name_text_size">16sp</dimen>
-    <dimen name="id_text_size">16sp</dimen>
+    <dimen name="header_text_size">24sp</dimen>
+    <dimen name="name_text_size">18sp</dimen>
+    <dimen name="id_text_size">18sp</dimen>
     <dimen name="name_spacing">8dp</dimen>
 
     <!-- Line heights -->
     <dimen name="name_line_height">28sp</dimen>
-    <dimen name="id_line_height">28sp</dimen>
+    <dimen name="id_lines_height">28sp</dimen>
 
-    <!-- Divider thickness -->
+    <!-- Divider -->
     <dimen name="divider_thickness">1dp</dimen>
     <dimen name="divider_padding">1dp</dimen>
 </resources>
