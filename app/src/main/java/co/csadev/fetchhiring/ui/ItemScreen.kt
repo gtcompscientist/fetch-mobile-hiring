@@ -49,6 +49,7 @@ fun ItemScreen(
         SwipeRefresh(
             state = refreshState,
             onRefresh = onRefresh,
+            indicator = { _, _ -> }, // Not using the default indicator
             modifier = modifier
                 .fillMaxSize()
                 .background(colorResource(id = R.color.surface))
