@@ -18,5 +18,6 @@
     <dimen name="id_line_height">28sp</dimen>
 
     <!-- Divider thickness -->
-    <dimen name="divider_thickness">0.5dp</dimen>
+    <dimen name="divider_thickness">1dp</dimen>
+    <dimen name="divider_padding">1dp</dimen>
 </resources>
