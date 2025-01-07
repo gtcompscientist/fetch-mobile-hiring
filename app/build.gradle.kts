@@ -50,6 +50,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.accompanist.swiperefresh)
+    implementation(libs.androidx.material.icons.extended)
 
     implementation(libs.retrofit)
     implementation(libs.converter.gson)
